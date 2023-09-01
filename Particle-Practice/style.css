@@ -1,0 +1,13 @@
+html,
+body {
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+canvas {
+    /* background-color: black;
+    filter: blur(50px) contrast(50); */
+
+    filter: url("#gooey");
+}
