@@ -33,3 +33,19 @@ document
     .addEventListener("click", () => {
         window.location.href = "/Kinetic Typography1/index.html";
     });
+
+document.getElementById("3d-car").addEventListener("click", () => {
+    window.location.href = "/CS3451/a2a/index.html";
+});
+
+document.getElementById("3d-car-animation").addEventListener("click", () => {
+    window.location.href = "/CS3451/a2b/index.html";
+});
+
+document.getElementById("ray-tracing").addEventListener("click", () => {
+    window.location.href = "/CS3451/a3/index.html";
+});
+
+document.getElementById("merry-christmas").addEventListener("click", () => {
+    window.location.href = "/CS3451/a5/index.html";
+});
